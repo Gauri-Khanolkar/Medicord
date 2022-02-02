@@ -20,7 +20,8 @@ Manage OPD, IPD, Pathology, WebMD, Rx, Patient Appointments<br/><br/>
 Patient's private data is not stored in app and location tracing functionality is not available with out government/authorities approval.</i>
 ## Getting Started
 
-This project is a community version and is absolutely free for private use.<br/>
+This project is a community version and is absolutely free for private use.
+Heyooo, gauri here, modifying this<br/>
 <a href="https://www.youtube.com/playlist?list=PLp0TENYyY8lHNMTAlrfVQKzAvQo3yzHYk">click here for Demo & Video tutorials</a>
 ## Technologies
 ```sbtshell
